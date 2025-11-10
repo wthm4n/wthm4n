@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rxyan and I'm a full-stack developer, from Boston, US.</h2>
+<h2 align="left">Hi 👋! Just a lil peep here >_<.</h2>
 
 ###
 
