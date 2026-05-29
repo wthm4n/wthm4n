@@ -1,87 +1,107 @@
-<h2 align="left">Hi 👋! Just a lil peep here >_<.</h2>
+# Aman Koushal
 
-###
+```aura width=900 height=320
+<div
+  style={{
+    width: "100%",
+    height: "100%",
+    background: "#0c0c0f",
+    border: "1px solid #222",
+    borderRadius: "20px",
+    padding: "32px",
+    display: "flex",
+    flexDirection: "column",
+    justifyContent: "space-between",
+    fontFamily: "monospace",
+  }}
+>
+  <div>
+    <div
+      style={{
+        color: "#6dfaa0",
+        fontSize: 18,
+        marginBottom: 12,
+      }}
+    >
+      aman@arch:~$ cat identity.json
+    </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OxRyn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OxRyn&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <div style={{ color: "#7c6dfa", fontSize: 16 }}>
+      name: "Aman Koushal"
+    </div>
+
+    <div style={{ color: "#fa6d6d", fontSize: 16 }}>
+      linux_reinstalls: "lost count after 20"
+    </div>
+
+    <div style={{ color: "#fac96d", fontSize: 16 }}>
+      current_focus: "building AI that remembers"
+    </div>
+
+    <div style={{ color: "#6dfaa0", fontSize: 16 }}>
+      status: "[████████░░] convincing silicon to think"
+    </div>
+  </div>
+
+  <div>
+    <div
+      style={{
+        fontSize: 54,
+        fontWeight: 700,
+        color: "#ffffff",
+      }}
+    >
+      Aman<span style={{ color: "#7c6dfa" }}>.</span>
+    </div>
+
+    <div
+      style={{
+        color: "#888",
+        marginTop: 8,
+        fontSize: 16,
+      }}
+    >
+      Builder · Breaker · Fixer · Repeat
+    </div>
+  </div>
 </div>
+```
 
-###
+## Current Mission
 
-<img align="right" height="150" src="https://i.imgur.com/KPfwZHT.gif"  />
+Building AI assistants with:
 
-###
+* Long-term memory
+* Voice interaction
+* Local inference
+* Agent workflows
+* Human-like personalities
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
+## Projects
 
-###
+### Samita
 
-<div align="left">
-  <a href="https://www.instagram.com/oxrxyan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="20" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/users/920402970041012255" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="20" alt="discord logo"  />
-  </a>
-  <a href="noenoeke11@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
-  </a>
-  <a href="https://codepen.io/OxRyn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=flat" height="20" alt="codepen logo"  />
-  </a>
-</div>
+A personal AI companion focused on memory, voice, retrieval, and natural interaction.
 
-###
+### Discord Bots
 
-<br clear="both">
+Automation, moderation, music systems, and custom server tooling.
 
-<img src="https://raw.githubusercontent.com/OxRyn/OxRyn/output/snake.svg" alt="Snake animation" />
+### Roblox Systems
 
-###
+Game mechanics, progression systems, scripting, and experimentation.
+
+## Current Obsessions
+
+`LLMs` `Agents` `Memory Systems` `Linux` `Discord.js`
+`Local AI` `System Design` `Roblox` `Voice Interfaces`
+
+## Philosophy
+
+> Build first.
+>
+> Break things.
+>
+> Figure it out later.
+>
+> Build something worth remembering.
